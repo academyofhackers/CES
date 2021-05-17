@@ -1,0 +1,1 @@
+examplesender@gmail.com:password123:smtp.gmail.com:465
